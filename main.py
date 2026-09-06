@@ -193,4 +193,11 @@ while True:
     else:
         print("Invalid ! guess the possible choice !")
         
+# Add
+
+def add(a,b):
+    print(a+b)
+    
+print(add(10,12))
+        
     
