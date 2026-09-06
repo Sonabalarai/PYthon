@@ -181,7 +181,7 @@ age=int(input("enter your age:-"))
 if age<18:
     raise TypeError("you are not eligible for voting")
 
-print("you RE Eligible")
+print("you are eligible")
 
 
     
