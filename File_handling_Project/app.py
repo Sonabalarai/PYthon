@@ -1,6 +1,6 @@
 import streamlit as st
 from pathlib import Path
-from File_handling_Project.file_manager import (
+from file_manager import (
     create_file,
     read_file,
     append_file,
