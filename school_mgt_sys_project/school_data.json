@@ -1,0 +1,14 @@
+{
+    "student": [
+        {
+            "name": "soniya",
+            "age": 20,
+            "email": "soniya@gmail.com",
+            "roll_no": "3",
+            "grade": {
+                "Maths": 57.0
+            }
+        }
+    ],
+    "teacher": []
+}

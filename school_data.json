@@ -1,0 +1,29 @@
+{
+    "student": [
+        {
+            "name": "sona",
+            "age": 27,
+            "email": "sona@gmail.com",
+            "roll_no": "1",
+            "grade": {
+                "Maths": 90.0
+            }
+        },
+        {
+            "name": "punam",
+            "age": 30,
+            "email": "punam@gmail.com",
+            "roll_no": "2",
+            "grade": {}
+        }
+    ],
+    "teacher": [
+        {
+            "name": "saujan",
+            "age": 24,
+            "email": "saujan@gmail.com",
+            "subject": "chef",
+            "emp_id": "1"
+        }
+    ]
+}
